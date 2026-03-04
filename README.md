@@ -1,17 +1,15 @@
-## Hi there 👋
 
-# Hey, I’m Geekiemonk 👋
 
 Welcome to my corner of GitHub, where curiosity meets code and creativity blends with data!
 
-## 🚀 What I’m Exploring
+## What I’m Exploring
 
-- 🌐 Web Technologies — from frameworks to performance optimization
-- 🤖 Generative AI — playing at the edge of creativity and computation
+- Web Technologies — from frameworks to performance optimization
+- Generative AI — playing at the edge of creativity and computation
 - Rust and Blockchains
   
 
-## 🧠 What I Work On
+##  What I Work On
 
 I’m building at the **intersection of content, data, and technology** powering content-driven businesses with tech that understands behavior and scales insight.
 
