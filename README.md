@@ -4,9 +4,9 @@ Welcome to my corner of GitHub, where curiosity meets code and creativity blends
 
 ## What I’m Exploring
 
-- Web Technologies — from frameworks to performance optimization
-- Generative AI — playing at the edge of creativity and computation
-- Rust and Blockchains
+- Marketing and content 
+- Generative AI-> looks cool so just wrote this
+- Rust and Blockchains (the only thing i know a bit lmao)
   
 
 ##  What I Work On
