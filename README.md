@@ -1,7 +1,11 @@
 
 
 Welcome to my corner of GitHub, where curiosity meets code and creativity blends with data!
-portfolio-> https://portfolio-aloodam.vercel.app/
+
+
+
+## portfolio-> 
+https://portfolio-aloodam.vercel.app/
 
 ## What I’m Exploring
 
@@ -14,7 +18,7 @@ portfolio-> https://portfolio-aloodam.vercel.app/
 
 I’m building at the **intersection of content, data, and technology** powering content-driven businesses with tech that understands behavior and scales insight.
 
-> “Build with data, scale with intent.”<br>
+
 
 
 <!--
